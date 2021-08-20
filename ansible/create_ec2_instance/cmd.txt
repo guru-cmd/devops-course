@@ -25,3 +25,6 @@ source ansible_env/bin/activate
 
 # Install boto
 pip install boto3
+
+Note: it will install inside the virtual env
+/home/centos/devops-course/ansible/ansible_env/lib/python3.6/site-packages
